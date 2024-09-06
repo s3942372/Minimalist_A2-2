@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
     ];
 
     const backgroundImages = [
-        'url(img/bg1.png)',
+        'url(img/bg1.jpg)',
         'url(img/bg2.jpg)',
         'url(img/bg3.jpg)',
     ];
